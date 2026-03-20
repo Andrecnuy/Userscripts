@@ -9,6 +9,7 @@ A collection of whatever bullshite UserScripts I had with gemini. Since they're 
 | Script Name | Description | Install |
 | :--- | :--- | :--- |
 | **[Danbooru - Quick Fancy Embedded Notes]** | Quickly turns normal translation notes into those fancy hard translated-like notes. | [Install](https://gist.github.com/Andrecnuy/e3a0c5e25e5137834778a5bf9f2d0547/raw/46f9e6627cec821eeb87ad97c86d8736cc3e5c78/Danbooru%2520-%2520Quick%2520Fancy%2520Embedded%2520Notes-3.6.0.user.js) |
+| **[Danbooru - Image & Notes Downloader** | Download an image along with their embedded notes, it should work with notes that has gradient background but it might had some problem with some complex notes | [Install](https://gist.github.com/Andrecnuy/e9345ac2c53e53d0f3050a8633aba7db/raw/64a2b39b286acc7993b8e92b76475a3cd398718f/Danbooru%2520-%2520Image%2520&%2520Notes%2520Downloader-2.2.0.user.js) |
 
 ## How to Install
 

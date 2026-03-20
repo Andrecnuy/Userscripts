@@ -2,7 +2,7 @@
 
 ![license](https://img.shields.io/badge/license-MIT-green)
 
-A collection of whatever bullshite UserScripts I had with gemini
+A collection of whatever bullshite UserScripts I had with gemini. Since they're all vibe coded I can't assure you that you won't run into bugs and if you do I can't promise you to fix it just use them if you want
 
 ## Scripts
 

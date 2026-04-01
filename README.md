@@ -21,6 +21,7 @@ A collection of whatever bullshite UserScripts I had with gemini. Since they're 
 | :--- | :--- | :--- |
 | **[Danbooru - Koharu Panic Button]** | Basically just a panic button for sensitive image and above for danbooru. Press right click 2 times or ctrl d to enable it, configurable. | [Install](https://gist.github.com/Andrecnuy/e96aedbac46784f23e7af27302206cd9/raw/d943d185c6291d72a3f613a62d6568744b160b53/Danbooru%2520-%2520Koharu%2520Panic%2520Button.user.js) |
 | **[Danbooru - The Prescript]** | Brings the infamous prescript device from the project moon universe into danbooru. Basically you just had a random task generator. YOU NEED TO INPUT IN YOUR USERNAME AND USERID FIRST, I forgot to make it dynamic | [Install](https://gist.github.com/Andrecnuy/55a3b70c32dde11fedec9d4b142ce1b4/raw/f41af32d70936dc8aaac1d379e8f3af0236d2958/Danbooru%2520-%2520The%2520Prescript.user.js) |
+| **[Danbooru - Profile Picture]** | Adds a profile picture next to your name in the profile page and others | [Install](https://gist.github.com/Andrecnuy/6f3fef539d39bcf027e47c2ef5b55067/raw/4769de8dd91737f729c7f42764acf2124c687b92/Danbooru%2520-%2520Profile%2520Picture.user.js) |
 
 ## How to Install
 

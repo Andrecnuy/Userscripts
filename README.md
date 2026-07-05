@@ -1,4 +1,4 @@
-# Danbooru scripts
+# Danbooru scripts (barely updated currently)
 
 ![license](https://img.shields.io/badge/license-MIT-green)
 
